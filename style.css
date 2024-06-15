@@ -1,0 +1,15 @@
+
+.container{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 40px;
+}
+
+.container input{
+    padding: 10px;
+    outline: none;
+}
+
+.container button{
+    padding: 10px 30px;
+}
